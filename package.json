@@ -1,0 +1,26 @@
+{
+  "name": "react-solidity-truffle",
+  "version": "1.0.0",
+  "description": "A complete set up using react , solidly and truffle",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit-nitsurat/react-solidity-truffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumit-nitsurat/react-solidity-truffle/issues"
+  },
+  "homepage": "https://github.com/sumit-nitsurat/react-solidity-truffle#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.12.0"
+  }
+}
